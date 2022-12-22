@@ -3,7 +3,7 @@ Hi...!! I am Shirish Jaiswal, and currently learning a full Stack Program and a 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shirish-jaiswal)             
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shirish-jaiswal)    
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shirishjaiswal03) 
 
 # 💻 Tech Stack:
