@@ -31,15 +31,20 @@
 <hr/>
 <h3 align="left"><b>Connect with me:<b></h3>
 <p align="left" style="font-weight: normal;">
-    <img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn" height="20" width="40"/>
+    <img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn" height="20"/>
     <a href="https://www.linkedin.com/in/shirish-jaiswal"> <span style="font-size: 18px">shirish-jaiswal</span>
     </a>
 </p>
 <p align="left" style="font-weight: normal;">
-    <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-1024.png" alt="LinkedIn" height="30"/>
+    <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-1024.png" alt="HackarRank" height="25"/>
     <a href="https://www.hackerrank.com/shirishjaiswal03"> <span style="font-size: 18px"> &nbsp; shirishjaiswal03</span>
     </a>
 </p>
+<p align="left" style="font-weight: normal;">
+    <img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="Email" height="15"/>
+    <a href="mailto: shirishjaiswal03@gmail.com"> <span style="font-size: 18px"> &nbsp; shirishjaiswal03</span>
+    </a>
+</p>   
 <hr/>
 
 <h3> 💻 <strong> GITHUB STATS </strong></h3>
