@@ -1,3 +1,6 @@
+<p>
+    Download Resume : <a href="/images/myw3schoolsimage.jpg" download> Resume Link </a>
+</p>
 <h1 align="center">Hello Geeks, I'm <strong>Shirish Jaiswal</strong></h1>
 <h2 align="center"><b>Embarking on a Journey to Master the Art of Coding</b></h2>
 <hr/>
