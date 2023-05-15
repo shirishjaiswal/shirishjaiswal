@@ -1,10 +1,7 @@
-<p>
-    Download Resume : <a href="https://docs.google.com/document/d/1g27rEmQa_b1uvLl3plvG85UKDOiSquetY5JlzXRkIN0/edit?usp=share_link" download> Resume Link </a>
-</p>
+<p>Download Resume : <a href="https://docs.google.com/document/d/1g27rEmQa_b1uvLl3plvG85UKDOiSquetY5JlzXRkIN0/edit?usp=share_link" download> Resume Link</a></p>
 <h1 align="center">Hello Geeks, I'm <strong>Shirish Jaiswal</strong></h1>
 <h2 align="center"><b>Embarking on a Journey to Master the Art of Coding</b></h2>
 <hr/>
-
 <h2 align="center"><b><u>ABOUT</u></b></h2>
 <p>I am a Java Developer with strong knowledge of JDBC, Spring Boot, SQL, and Git. I'm a motivated and dedicated developer who enjoys learning new technologies and approaches to problem-solving. I've done a number of projects on Java and Spring Boot and have hands-on experience with tools such as Eclipse, IntelliJ, VSCode, Postman, Swagger, etc.</p>
 <hr/>
