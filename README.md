@@ -1,5 +1,5 @@
 <p>
-    Download Resume : <a href="[/images/myw3schoolsimage.jpg](https://docs.google.com/document/d/1g27rEmQa_b1uvLl3plvG85UKDOiSquetY5JlzXRkIN0/edit?usp=sharing)" download> Resume Link </a>
+    Download Resume : <a href="https://docs.google.com/document/d/1g27rEmQa_b1uvLl3plvG85UKDOiSquetY5JlzXRkIN0/edit?usp=share_link" download> Resume Link </a>
 </p>
 <h1 align="center">Hello Geeks, I'm <strong>Shirish Jaiswal</strong></h1>
 <h2 align="center"><b>Embarking on a Journey to Master the Art of Coding</b></h2>
