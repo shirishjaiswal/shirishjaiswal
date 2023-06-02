@@ -31,7 +31,7 @@
             <li>👨‍💻 All of my projects are available at: <a href="https://github.com/shirishjaiswal">https://github.com/shirishjaiswal</a></li>
             <li>📝 I often write articles on: <a href="https://www.linkedin.com/in/shirish-jaiswal">https://www.linkedin.com/in/shirish-jaiswal</a></li>
             <li>💬 Ask me about: <strong>Core JAVA, JDBC, Spring Boot, MySQL</strong></li>
-            <li>📄 Resume Link: <a href="#">Shirish Jaiswal</a></li>
+            <li>📄 Resume Link: <a href="https://docs.google.com/document/d/1LwQv0ym_hCIwY8MSynRjsMDv4lLQnGRLSBlcUIts9DQ/edit?usp=sharing">Shirish Jaiswal</a></li>
         </ul>
         <hr>
         <h3 align="left"><b>Connect with me:</b></h3>
